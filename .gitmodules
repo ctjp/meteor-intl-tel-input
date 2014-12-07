@@ -1,0 +1,3 @@
+[submodule "lib/intl-tel-input"]
+	path = lib/intl-tel-input
+url=https://github.com/Bluefieldscom/intl-tel-input/commit/35635dd93838698e17d4a6da58bf98c9212678e9
